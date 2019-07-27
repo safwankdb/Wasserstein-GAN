@@ -23,6 +23,6 @@ I modeled the generator and critic both using Multi Layer Perceptrons to verify 
 
 
 ### References
-1. **Martin Arjovsky, et al.** *Wasserstein GAN.* [[arxiv](https://arxiv.org/abs/1701.07875)]
-2. **Yann LeCun, et al.** *MNIST Database of Handwritten Digits* [[webpage](https://yann.lecun.com/exdb/mnist/)]
+> 1. **Martin Arjovsky, et al.** *Wasserstein GAN.* [[arxiv](https://arxiv.org/abs/1701.07875)]
+> 2. **Yann LeCun, et al.** *MNIST Database of Handwritten Digits* [[webpage](https://yann.lecun.com/exdb/mnist/)]
 
